@@ -20,7 +20,7 @@ namespace GitSimplified
         private static string pull = "pull";
         private static string clone = "clone";
         private static string init = "init";
-        string GitSimplifiedBat = Directory.GetCurrentDirectory() + @"\GitSimplifedHelper.bat";
+        string GitSimplifiedBat = Directory.GetCurrentDirectory() + @"\GitSimplifed.bat";
         public Form1()
         {
             InitializeComponent();
@@ -278,6 +278,11 @@ namespace GitSimplified
                 }
             }
             return true;
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }

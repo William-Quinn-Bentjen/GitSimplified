@@ -154,7 +154,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.WindowFrame;
-            this.ClientSize = new System.Drawing.Size(384, 207);
+            this.ClientSize = new System.Drawing.Size(384, 208);
             this.Controls.Add(this.URLBox);
             this.Controls.Add(this.CommitMessage);
             this.Controls.Add(this.CreateGitIgnore);
@@ -172,6 +172,7 @@
             this.MinimumSize = new System.Drawing.Size(400, 246);
             this.Name = "Form1";
             this.Text = "GitSimplified";
+            this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

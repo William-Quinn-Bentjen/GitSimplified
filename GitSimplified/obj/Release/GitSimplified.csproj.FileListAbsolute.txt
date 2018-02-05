@@ -8,3 +8,13 @@ C:\Users\Quinn\Documents\Visual Studio 2015\Projects\GitSimplified\GitSimplified
 C:\Users\Quinn\Documents\Visual Studio 2015\Projects\GitSimplified\GitSimplified\obj\Release\GitSimplified.csproj.GenerateResource.Cache
 C:\Users\Quinn\Documents\Visual Studio 2015\Projects\GitSimplified\GitSimplified\obj\Release\GitSimplified.exe
 C:\Users\Quinn\Documents\Visual Studio 2015\Projects\GitSimplified\GitSimplified\obj\Release\GitSimplified.pdb
+C:\Users\s179051\Source\Repos\GitSimplified2\GitSimplified\bin\Release\GitSimplified.exe.config
+C:\Users\s179051\Source\Repos\GitSimplified2\GitSimplified\obj\Release\GitSimplified.exe
+C:\Users\s179051\Source\Repos\GitSimplified2\GitSimplified\obj\Release\GitSimplified.pdb
+C:\Users\s179051\Source\Repos\GitSimplified2\GitSimplified\bin\Release\GitSimplified.exe
+C:\Users\s179051\Source\Repos\GitSimplified2\GitSimplified\bin\Release\GitSimplified.pdb
+C:\Users\s179051\Source\Repos\GitSimplified2\GitSimplified\obj\Release\GitSimplified.csprojResolveAssemblyReference.cache
+C:\Users\s179051\Source\Repos\GitSimplified2\GitSimplified\obj\Release\GitSimplified.Form1.resources
+C:\Users\s179051\Source\Repos\GitSimplified2\GitSimplified\obj\Release\GitSimplified.GitIgnore.resources
+C:\Users\s179051\Source\Repos\GitSimplified2\GitSimplified\obj\Release\GitSimplified.Properties.Resources.resources
+C:\Users\s179051\Source\Repos\GitSimplified2\GitSimplified\obj\Release\GitSimplified.csproj.GenerateResource.Cache
